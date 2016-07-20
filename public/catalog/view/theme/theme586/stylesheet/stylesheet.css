@@ -1849,7 +1849,7 @@ button.btn-primary + a.btn-danger {
 
 /* ================   QuickView  =============== */
 .product-thumb .image .quickview {
-  display: inline-block;
+  display: none;
 }
 
 .product-thumb .quickview {
