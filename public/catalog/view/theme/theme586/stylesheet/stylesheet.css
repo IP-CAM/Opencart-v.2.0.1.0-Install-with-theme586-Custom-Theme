@@ -1411,7 +1411,7 @@ body[class*="information-"] .header .nav-list, body[class="account-return-add"] 
   display: inline-block;
   font-size: 20px;
   line-height: 20px;
-  color: #1571d6;
+  color: #333;
 }
 
 .price-old {
